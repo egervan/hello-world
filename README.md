@@ -1,2 +1,2 @@
 # hello-world
-First experience with github. Before I used only bitbucket
+I am Java programmer and I like coding)
